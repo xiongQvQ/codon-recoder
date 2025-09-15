@@ -1,9 +1,13 @@
 codon-recoder
 ================
 
+语言： [English](README.md) | 中文
+
 将 DNA 序列在保持阅读框不变的前提下，回译为给定的目标氨基酸序列，尽可能最少修改核苷酸。提供命令行工具和 Python API。
 
-English: README.md
+项目
+- 许可证：MIT（见 `LICENSE`）
+- 贡献指南：见 `CONTRIBUTING.md`
 
 特性
 - 逐密码子最小更改（哈明距离）
@@ -95,3 +99,17 @@ print(dna2aa(new_dna))
     - AA(after): `M_T`
     - Codons changed: `1 / 3`; Nucleotide changes: `1`
 
+支持与联系
+- 中国（微信）：
+  - 合作/加我（扫码）：
+
+    ![微信加我](img/addme.jpg)
+  - 打赏/请我喝咖啡（微信收款码）：
+
+    ![微信打赏](img/dashang.jpg)
+- 海外/国际常用方式（按需选择）：
+
+  - Buy Me a Coffee: https://buymeacoffee.com/bowen007
+  - 联系方式：邮件（xiongbojian007@gmail.com
+
+以上链接中的占位符请替换为你的实际账户与链接。

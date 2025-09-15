@@ -15,6 +15,7 @@ classifiers = [
   "License :: OSI Approved :: MIT License",
   "Operating System :: OS Independent",
 ]
+license = { file = "LICENSE" }
 
 [project.scripts]
 codon-recoder = "codon_recode.cli:main"
