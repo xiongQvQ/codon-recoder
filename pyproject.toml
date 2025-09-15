@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "codon-recoder"
+version = "0.1.0"
+description = "Recode DNA to match a target amino-acid sequence with minimal nucleotide changes."
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [{name = ""}]
+keywords = ["bioinformatics", "codon", "recoding", "protein", "DNA"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+]
+
+[project.scripts]
+codon-recoder = "codon_recode.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
