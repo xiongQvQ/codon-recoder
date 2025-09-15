@@ -106,11 +106,8 @@ Support & Contact
     
     ![WeChat Pay - Tip](img/dashang.jpg)
 - International options (pick what suits you):
-  - GitHub Sponsors: https://github.com/sponsors/YOUR_USERNAME
-  - Buy Me a Coffee: https://buymeacoffee.com/YOUR_HANDLE
-  - Ko‑fi: https://ko-fi.com/YOUR_HANDLE
-  - PayPal.Me: https://paypal.me/YOUR_HANDLE
-  - Stripe payment link: https://buy.stripe.com/YOUR_LINK
-  - Contact: email (you@example.com), LinkedIn, or X/Twitter DM
+
+  - Buy Me a Coffee: https://buymeacoffee.com/bowen007
+  - Contact: xiongbojian007@gmail.com
 
 Replace the placeholders above with your actual links/handles.
